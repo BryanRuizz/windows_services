@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\bryan.santillan\source\repos\WindowsServiceBryan\WindowsServiceBryan\bin\Debug\WindowsServiceBryan.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bryan.santillan\source\repos\WindowsServiceBryan\WindowsServiceBryan\bin\Debug\WindowsServiceBryan.InstallLog
+   assemblypath = C:\Users\bryan.santillan\source\repos\WindowsServiceBryan\WindowsServiceBryan\bin\Debug\WindowsServiceBryan.exe
+Instalando el servicio EstadoBateria...
+El servicio EstadoBateria se ha instalado correctamente.
+Creando el origen de EventLog EstadoBateria en el registro Application...
+Confirmando ensamblado 'C:\Users\bryan.santillan\source\repos\WindowsServiceBryan\WindowsServiceBryan\bin\Debug\WindowsServiceBryan.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\bryan.santillan\source\repos\WindowsServiceBryan\WindowsServiceBryan\bin\Debug\WindowsServiceBryan.InstallLog
+   assemblypath = C:\Users\bryan.santillan\source\repos\WindowsServiceBryan\WindowsServiceBryan\bin\Debug\WindowsServiceBryan.exe

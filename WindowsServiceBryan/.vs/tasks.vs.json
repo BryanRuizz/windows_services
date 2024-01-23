@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-estadoBateria.Designer",
+      "appliesTo": "estadoBateria.Designer.cs",
+      "type": "launch"
+    }
+  ]
+}
